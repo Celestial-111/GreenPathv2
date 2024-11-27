@@ -1,0 +1,12 @@
+{
+  "name": "GreenPath",
+  "short_name": "GreenPath",
+  "id": "com.Public.Greenpath",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
